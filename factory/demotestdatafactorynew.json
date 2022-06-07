@@ -1,0 +1,9 @@
+{
+	"name": "demotestdatafactorynew",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b1fdf028-3fb3-4e6c-92d4-04c6794dc0d5",
+		"tenantId": "b050db3d-e09a-46ce-b213-96599293b253"
+	}
+}
